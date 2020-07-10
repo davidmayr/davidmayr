@@ -9,4 +9,4 @@
 🌱 I’m currently learning C# and C++
 
 ⚡ Fun facts:
-- I started coding becouse my Minecraft Server needed developers and i haven't found any.
+- I started coding becouse my Minecraft Server needed developers and I haven't found any.
