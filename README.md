@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 📫 How to reach me:
-- Discord: "MenschenToaster | David#4373"
+- Discord: "MenschenToaster#4373"
 - Twitter: @MenschenT(Just DM me)
 - Email: davidliebtkekse@gmail.com
 
